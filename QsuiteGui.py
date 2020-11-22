@@ -1,3 +1,7 @@
+"""
+A library of math of simple math functions to be used for course
+"""
+
 import math
 import random
 from numpy import linalg as LA
