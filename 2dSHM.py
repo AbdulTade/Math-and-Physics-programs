@@ -1,3 +1,7 @@
+""" 
+it simulates a ball performing 2 dimensional simple harmonic motion.
+"""
+
 from graphics import *
 import time
 import numpy as np
